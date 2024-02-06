@@ -196,10 +196,13 @@ cmake_install.cmake
 /conf/search_server.conf
 /conf/server_message.conf
 /conf/server_message_fr.conf
+/conf/*.bak
 
 # non-default settings script files containing server specific things
 /scripts/settings/main.lua
+/scripts/settings/*.bak
 /settings/*.lua
+/settings/*.bak
 
 # Tool/misc configs
 /tools/config.yaml
